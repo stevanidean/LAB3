@@ -359,7 +359,7 @@ hasilnya:
 hasil setelah dibuat
 ![ubah](https://user-images.githubusercontent.com/92729505/232602693-23473557-14be-4878-82e5-c3006f29cefa.PNG)
 
-7. terakhir membuat file baru proses.php yang akan memposes semuanya
+# membuat file untuk memposes semuanya
 
 <?php
 include "koneksi.php";
